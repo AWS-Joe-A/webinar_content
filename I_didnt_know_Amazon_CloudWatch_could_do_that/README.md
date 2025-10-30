@@ -1,10 +1,40 @@
-# Overview 
----
+# Modern CloudWatch: From Infrastructure Monitoring to Full-Stack Observability
 
-This folder contains a link to the external presentation and a pdf version of the slides to dive deeper on the content. 
+## 📺 Session Recording
+Watch the full presentation here: [YouTube Link](https://www.youtube.com/watch?v=Kn8uYZJyW-o)
 
-# Video 
+## 📄 Presentation Materials
+[I didn't know Amazon CloudWatch could do that! pdf presentation](I didnt know Amazon CloudWatch could do that.pdf)
 
-[I didn't know Amazon CloudWatch Could do that! Oct 2025](https://www.youtube.com/watch?v=Kn8uYZJyW-o)
+## 🎯 Session Overview
+This session explores CloudWatch's evolution from a basic infrastructure monitoring tool into a comprehensive, AI-powered observability platform. We demonstrate how CloudWatch leverages generative AI and AIOps to provide advanced monitoring and troubleshooting capabilities across your entire technology stack.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kn8uYZJyW-o?si=tJqxdXaS5PpTyFiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 🔑 Key Topics Covered
+- Centralized Observability
+- AIOps
+- GenAI Observability
+- Application Signals (APM)
+- Insights
+- Logs
+- Metrics
+- Traces
+- CloudWatch Agent
+- Alarms
+- Dashboards
+- Network
+- OpenTelemetry
+
+## 🔗 Additional Resources
+- [CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/)
+- [AWS Observability Best Practices](https://aws.amazon.com/builders-library/topics/monitoring-observability/)
+- [OpenTelemetry on AWS](https://aws.amazon.com/otel/)
+
+## 📝 License
+This presentation and associated materials are subject to AWS's standard terms and conditions.
+
+## ✍️ Contributing
+For questions or clarifications about the session content, please open an issue in this repository.
+
+
+
+
