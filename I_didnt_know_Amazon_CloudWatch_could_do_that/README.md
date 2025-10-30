@@ -1,4 +1,4 @@
-# Modern CloudWatch: From Infrastructure Monitoring to Full-Stack Observability
+# I didn't know Amazon CloudWatch could do that. 
 
 ## 📺 Session Recording
 Watch the full presentation here: [YouTube Link](https://www.youtube.com/watch?v=Kn8uYZJyW-o)
@@ -26,14 +26,11 @@ This session explores CloudWatch's evolution from a basic infrastructure monitor
 
 ## 🔗 Additional Resources
 - [CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/)
-- [AWS Observability Best Practices](https://aws.amazon.com/builders-library/topics/monitoring-observability/)
+- [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/guides/))
 - [OpenTelemetry on AWS](https://aws.amazon.com/otel/)
+- [One Observability Workshop](https://catalog.workshops.aws/observability/en-US)
+- [Application Signals and CloudWatch Investigations Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/c5c6a53a-ed15-4dc0-af21-d89e253b5e14/en-US)
 
-## 📝 License
-This presentation and associated materials are subject to AWS's standard terms and conditions.
-
-## ✍️ Contributing
-For questions or clarifications about the session content, please open an issue in this repository.
 
 
 
