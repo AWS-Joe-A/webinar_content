@@ -4,52 +4,25 @@
 Watch the full presentation here: [YouTube Link](https://www.youtube.com/watch?v=Kn8uYZJyW-o)
 
 ## 📄 Presentation Materials
-- I didnt know Amazon CloudWatch could do that.pdf <!-- Add the actual PDF link when available -->
+[I didn't know Amazon CloudWatch could do that! pdf presentation](I_didnt_know_Amazon_CloudWatch_could_do_that.pdf)
 
 ## 🎯 Session Overview
 This session explores CloudWatch's evolution from a basic infrastructure monitoring tool into a comprehensive, AI-powered observability platform. We demonstrate how CloudWatch leverages generative AI and AIOps to provide advanced monitoring and troubleshooting capabilities across your entire technology stack.
 
 ## 🔑 Key Topics Covered
-- **Centralized Observability**
-  - Single pane of glass monitoring
-  - Cross-stack visibility
-  
-- **AI-Powered Features**
-  - CloudWatch Investigations
-  - AIOps capabilities
-  - GenAI Observability
-  
-- **Application Performance Monitoring (APM)**
-  - Service maps
-  - SLO tracking
-  - Synthetic monitoring
-  - Real User Monitoring (RUM)
-  
-- **Core Observability Signals**
-  - Metrics
-  - Logs
-  - Traces
-  - Application signals
-  
-- **Advanced Monitoring Tools**
-  - CloudWatch Agent
-  - Intelligent alarming system
-  - Composite alarms
-  - Fleet-wide monitoring
-  
-- **Integration & Analysis**
-  - OpenTelemetry support
-  - Network monitoring
-  - Zero-ETL OpenSearch integration
-  - Dashboard capabilities
-
-## 💡 Who Should Watch
-- Cloud architects
-- DevOps engineers
-- SRE teams
-- Application developers
-- IT operations staff
-- Anyone interested in modern observability practices
+- Centralized Observability
+- AIOps
+- GenAI Observability
+- Application Signals (APM)
+- Insights
+- Logs
+- Metrics
+- Traces
+- CloudWatch Agent
+- Alarms
+- Dashboards
+- Network
+- OpenTelemetry
 
 ## 🔗 Additional Resources
 - [CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/)
@@ -61,5 +34,6 @@ This presentation and associated materials are subject to AWS's standard terms a
 
 ## ✍️ Contributing
 For questions or clarifications about the session content, please open an issue in this repository.
+
 
 
