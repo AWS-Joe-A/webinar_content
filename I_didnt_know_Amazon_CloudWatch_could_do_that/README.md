@@ -4,7 +4,7 @@
 Watch the full presentation here: [YouTube Link](https://www.youtube.com/watch?v=Kn8uYZJyW-o)
 
 ## 📄 Presentation Materials
-[I didn't know Amazon CloudWatch could do that! pdf presentation](I_didnt_know_Amazon_CloudWatch_could_do_that.pdf)
+[I didn't know Amazon CloudWatch could do that! pdf presentation](I didnt know Amazon CloudWatch could do that.pdf)
 
 ## 🎯 Session Overview
 This session explores CloudWatch's evolution from a basic infrastructure monitoring tool into a comprehensive, AI-powered observability platform. We demonstrate how CloudWatch leverages generative AI and AIOps to provide advanced monitoring and troubleshooting capabilities across your entire technology stack.
@@ -34,6 +34,7 @@ This presentation and associated materials are subject to AWS's standard terms a
 
 ## ✍️ Contributing
 For questions or clarifications about the session content, please open an issue in this repository.
+
 
 
 
